@@ -32,7 +32,7 @@ _Validaciones y control de excepciones_
 * Menu de opciones(1-8)
 * Converción de monedas estaticas ingresando cantidad (1-4).
 * Converción personalizada ingresando Codigos de moneda ej.(PEN, USD, EUR..etc).
-* Busqueda de Codigos de monegra ingresando país. ej.( entrada : Argentina , Salida: ARS).
+* Busqueda de Codigos de moneda ingresando país. ej.( entrada : Argentina , Salida: ARS).
 * Generador de historial de las converciones realizadas durante la ejecución.(File Json).
 * Opción de salida.
 
